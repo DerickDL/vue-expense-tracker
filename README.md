@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## About the app
+#### A simple expense tracker created with Vue 3 using Composition API inspired by Brad.
